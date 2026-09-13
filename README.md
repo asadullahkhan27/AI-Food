@@ -22,4 +22,4 @@ AI FoodRescue is a prototype platform designed to help reduce food waste through
 
 Prototype / Demo Mode
 
-The current version does not use a trained AI model yet.
+The current version does use a trained AI model.
